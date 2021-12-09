@@ -1,0 +1,39 @@
+.navbar {
+    background-color: rgb(176, 193, 196);
+    height: 50px;
+    margin: 2px;
+    border: rgb(248, 247, 247) solid 1px;
+    border-radius: 3px;
+    /* border-bottom: 1px solid black ; */
+    }
+    .card-text{
+    font-style: italic;
+    color: black;
+    }
+   .table{
+      margin: 10px !important;
+   }
+
+   .navbar-nav a{
+    color: rgb(22, 23, 26);
+   }
+   .card{
+       margin: 10px 10px;
+   }
+   .parent {
+    text-align: center;
+  }
+  .parent > ul {
+    display: inline-block;
+  }
+  .card-img-top{
+    height: 200px;
+    width: 200px;
+  }
+
+  /* 
+   */
+   
+
+   
+  
